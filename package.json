@@ -257,7 +257,7 @@
     "typed-scss-modules": "^4.1.1",
     "typescript": "^5.0.2",
     "utc-version": "^2.0.2",
-    "vite": "^4.1.4",
+    "vite": "^4.5.13",
     "vitest": "2.0.3",
     "vitest-fetch-mock": "^0.2.2",
     "vsce": "^2.7.0",

@@ -28,7 +28,7 @@
     "std-env": "^3.7.0",
     "tsconfig-to-swcconfig": "^2.7.0",
     "typescript": "^5.0.2",
-    "vite": "^4.1.4",
+    "vite": "^4.5.13",
     "vitest": "1.0.0-beta.4"
   }
 }
