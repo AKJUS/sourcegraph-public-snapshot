@@ -53,6 +53,6 @@
     "@sourcegraph/shared": "workspace:*",
     "@sourcegraph/telemetry": "^0.16.0",
     "@sourcegraph/wildcard": "workspace:*",
-    "mermaid": "^10.9.1"
+    "mermaid": "^10.9.3"
   }
 }
