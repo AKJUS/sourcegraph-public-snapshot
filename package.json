@@ -262,7 +262,7 @@
     "vitest-fetch-mock": "^0.2.2",
     "vsce": "^2.7.0",
     "wildcard-mock-link": "^2.0.1",
-    "yaml": "^2.2.1",
+    "yaml": "^2.8.3",
     "yauzl": "^2.10.0"
   },
   "dependencies": {
@@ -354,7 +354,7 @@
     "fzf": "^0.5.2",
     "got": "^11.5.2",
     "graphiql": "^1.11.5",
-    "handlebars": "^4.7.7",
+    "handlebars": "^4.7.9",
     "highlight.js": "^10.5.0",
     "highlightjs-graphql": "^1.0.2",
     "history": "4.5.1",
@@ -378,7 +378,7 @@
     "lru-cache": "^7.8.0",
     "marked": "4.0.16",
     "mdi-react": "^8.1.0",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.1.4",
     "mockdate": "^3.0.2",
     "monaco-editor": "^0.24.0",
     "monaco-yaml": "^3.2.1",
